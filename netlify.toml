@@ -1,0 +1,3 @@
+[build]
+    publish = "dist/kk-angular-explorer"
+    command = "ng build --prod"
